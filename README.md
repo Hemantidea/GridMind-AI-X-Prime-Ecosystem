@@ -15,7 +15,6 @@ An enterprise-grade smart grid orchestration, edge-intelligent energy optimizati
 
 * **GridMind AI Platform:** [gridmind-digital](https://github.com/Hemantidea/GridMind-AI)
 * **PRIME Digital FE:** [prime-digital-FE](https://github.com/Hemantidea/PRIME-Digital-FE)
-* **PRIME Digital BE:** [prime-digital-BE](https://github.com/Hemantidea/PRIME-Digital-BE)
 
 
 <p align="center">
